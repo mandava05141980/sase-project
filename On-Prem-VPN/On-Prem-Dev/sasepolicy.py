@@ -8,7 +8,7 @@ import pandas as pd
 def get_token():
     token_url = "https://auth.apps.paloaltonetworks.com/auth/v1/oauth2/access_token?grant_type=client_credentials&scope=tsg_id:1231960117"
     username = "sasemonitoring@1231960117.iam.panserviceaccount.com"
-    password = "abff18f5-3553-4301-b3e8-972a685ef8c0"
+    password = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
     
     headers = {

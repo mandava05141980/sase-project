@@ -10,7 +10,7 @@ from numpy import nan
 def get_token():
     token_url = "https://auth.apps.paloaltonetworks.com/auth/v1/oauth2/access_token?grant_type=client_credentials&scope=tsg_id:1498252864"
     username = "sasefedrampmonitoring@1498252864.iam.panserviceaccount.com"
-    password = "bd10afa9-347a-416d-b3e0-58ad7ae7fd53"
+    password = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
     
     headers = {

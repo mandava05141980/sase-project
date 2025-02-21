@@ -5,7 +5,7 @@ import requests
 def get_token():
     token_url = "https://auth.apps.paloaltonetworks.com/auth/v1/oauth2/access_token?grant_type=client_credentials&scope=tsg_id:1875144976"
     username = "sasemonitoring@1875144976.iam.panserviceaccount.com"
-    password = "ce5478df-25be-4172-9c4c-6d40d0088fe6"
+    password = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
     headers = {'Content-Type': 'application/json'}
     payload = {}
